@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # URL of the file to download
-URL="" #Change URL to download path on the remote server
+URL="" # Change URL to the download path on the remote server
 
 # Get the file name from the URL
 FILENAME=$(basename "$URL")
