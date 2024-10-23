@@ -1,2 +1,2 @@
-# Aria-cURLIDM
-An IDM powered by aria2 and cURL
+# IDMs
+An IDM powered by aria2/c and cURL
